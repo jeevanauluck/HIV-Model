@@ -1,1 +1,5 @@
-[netlogo web](http://modelingcommons.org/browse/one_model/6312#model_tabs_browse_nlw)
+## **Modelling the spread of HIV using NetLogo**
+
+### *By: Celia Arrecis, Jeevan Auluck, & Alicia Rego*
+
+The goal of this [simulation](http://modelingcommons.org/browse/one_model/6312#model_tabs_browse_nlw) is to build an accurate epidemiological model of the spread of HIV through sexual contact and between mother and child. The question to investigate is how following factors influence the transmission rate of HIV the most: the average amount of times people in relationships have sex per month, how often they use condoms or vaginal rings, the length of these committed relationships, how often each individual gets tested for STI’s, and how effective antiretroviral therapy is in preventing the spread of HIV. The results show that increasing condom-use, treatment-efficacy, and commitment reduces the spread of HIV, whereas increasing sexual-activity and testing-frequency increases the spread of HIV. Feel free to play around with the parameters to your liking, then click setup and go to see the magic happen! 
